@@ -1,5 +1,3 @@
-# LexSnowe
-
 ## About me
 Hi, I'm Lex, a queer, neurodivergent aspiring author. I have an academic background in healthcare, political science, law, and computer science.
 I am embarking on a project to research my first book in public.
