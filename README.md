@@ -1,21 +1,15 @@
-## lexsnowe
+# LexSnowe
 
-Writing a book about a world that might actually be built: one more equitable
-than this one, or as close to it as I can conceive of. It's fiction, but the
-world is argued for rather than just depicted. An argument has to survive
-someone disagreeing with it.
+## About me
+Hi, I'm Lex, a queer, neurodivergent aspiring author. I have an academic background in healthcare, political science, law, and computer science.
+I am embarking on a project to research my first book in public.
 
-The research behind it is public at
-**[lexsnowe.github.io/world-site](https://lexsnowe.github.io/world-site/)** —
-the questions I'm working through, what I'm reading, and the reasoning that
-connects them. 
+## Account overview
+This account is for the research for a book I want to write. This book will be fiction, but will be based in research. I want to explore what sort of society we could build if we shaped our world to be sustainable, equitable, and built with love and community at its heart. In practice, I am a realist, but when it comes to fiction, I believe in a happily ever after, so this book will serve as our happily ever after once we move through and survive the societal changes that would be required to build such a world.
 
-I'm doing it in public because I want the ideas tested. I'm one person with one
-perspective and one lived experience, and there will be holes in what I know.
-If you disagree, tell me. If there's something I should be reading, send it.
+## AI disclosure
+AI tools will be used in this project.
 
-AI is used in this project, and I'd rather say so up front than have you find
-out later. It manages the notes, helps me find and summarize sources, and I
-think out loud with it. It doesn't write the prose and it doesn't decide what I
-believe. Anything it substantially touched is marked as such.
+## Contact
 
+[contact@lexsnowe.com](mailto:contact@lexsnowe.com)
